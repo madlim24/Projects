@@ -1,4 +1,4 @@
-# Projects
+# Arduino Simple Irrigation System
 This repository shows a simple irrigation project using Arduino
 
 Sensors used in this project
